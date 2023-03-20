@@ -14,6 +14,10 @@ Outil de gestion des actualités : XBBO CMS dispose d'un outil de gestion des ac
 # Installation
 Pour installer XBBO CMS, un système d'installation simplifié de la même manière qu'Habbo PHP, pour ceux qui se souviennent sera implémenté.
 
+# Intérêt de ce projet et pourquoi les fichiers sont déjà sous le format php avec blade ?
+
+Ce projet a été réalisé afin d'être implémenté avec un Back-End laravel et c'est pour cela que les fichier dispose déjà d'une extension en .blade.php.
+
 # Contributeurs
 XBBO CMS est un projet open source développé par une communauté de développeurs. Les contributeurs sont les bienvenus pour aider à améliorer le projet et ajouter de nouvelles fonctionnalités.
 
